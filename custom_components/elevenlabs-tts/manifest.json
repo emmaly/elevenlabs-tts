@@ -1,0 +1,9 @@
+{
+  "domain": "elevenlabs_tts",
+  "name": "ElevenLabs TTS",
+  "codeowners": ["@emmaly"],
+  "documentation": "https://github.com/emmaly/elevenlabs-tts",
+  "iot_class": "cloud_polling",
+  "issue_tracker": "https://github.com/emmaly/elevenlabs-tts/issues",
+  "version": "0.0.1"
+}
