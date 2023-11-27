@@ -5,7 +5,7 @@ This component is a custom integration to allow [Home Assistant](https://www.hom
 
 ## Install
 
-> Download and copy `custom_components/elevenlabs_tts` folder to `custom_components` folder in your HomeAssistant config folder
+[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=emmaly&repository=elevenlabs-tts&category=integration)
 
 
 ## Default Config
