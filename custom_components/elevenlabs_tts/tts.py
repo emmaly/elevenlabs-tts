@@ -8,8 +8,6 @@ import voluptuous as vol
 
 _LOGGER = logging.getLogger(__name__)
 
-DEBUG_AUDIO_PATH = "/config/tts_debug/elevenslabs_debug.mp3"
-
 DEFAULT_MODEL_ID            = "eleven_multilingual_v1"
 DEFAULT_VOICE_ID            = "piTKgcLEGmPE4e6mEKli"
 DEFAULT_STABILITY           = 0.50
