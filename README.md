@@ -14,6 +14,7 @@ This component is a custom integration to allow [Home Assistant](https://www.hom
 # configuration.yaml
 tts:
   - platform: elevenlabs_tts
+    api_key: YOUR_API_KEY
     model_id: eleven_multilingual_v1
     voice_id: piTKgcLEGmPE4e6mEKli # Nicole (prefers model eleven_multilingual_v1)
 ```
@@ -23,6 +24,7 @@ tts:
 ```yaml
 tts:
   - platform: elevenlabs_tts
+    api_key: YOUR_API_KEY
     model_id: eleven_multilingual_v2
     voice_id: 21m00Tcm4TlvDq8ikWAM # Rachel (voice has no model preference)
     stability: 0.5          # 0.00 to 1.00, default 0.50
@@ -34,6 +36,7 @@ tts:
 ```yaml
 tts:
   - platform: elevenlabs_tts
+    api_key: YOUR_API_KEY
     model_id: eleven_multilingual_v1
     voice_id: jsCqWAovK2LkecY7zXl4 # Freya (prefers model eleven_multilingual_v1)
     stability: 0.5          # 0.00 to 1.00, default 0.50
